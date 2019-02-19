@@ -13,3 +13,6 @@ Simplest way to get your keyboard works like a Mac!
 * sudo cp no /usr/share/X11/xkb/symbols/no
 * sudo reboot
 
+##
+
+Thanks to https://github.com/gulrotkake/Ubuntu-MacBook-Norwegian-keyboard
