@@ -1,5 +1,5 @@
 # ubuntu-mac-keyboard-no
-Ubuntu - Mac Keyboard (Norwegian)
+Simplest way to get your keyboard works like a Mac!
 
 # Steps
 
